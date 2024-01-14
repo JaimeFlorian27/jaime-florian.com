@@ -1,11 +1,11 @@
 # Pages placed under these sections will be shown on homepage and archive page.
-mainSections = ["post"]
+mainSections = ["post", "about"]
 # Output page's full content in RSS.
 rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2024
 customText = ""
 
 [dateFormat]
@@ -13,8 +13,12 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "🧑🏽‍🚀"
+subtitle = """🚀 Technical Director in the 3D animation industry. Bridging art and tech
+            together with code. Currently into Neovim, Rez, USD, Python, and Linux. """
+
+[contact]
+email = "jaimeflorian27@gmail.com"
 
 [sidebar.avatar]
 enabled = true
