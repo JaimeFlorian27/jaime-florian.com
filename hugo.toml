@@ -1,16 +1,22 @@
+baseURL = 'https://jaime-florian.com'
+languageCode = 'en-us'
+title = 'Jaime Florian'
+theme = 'hugo-theme-stack'
+
+[params]
 mainSections = ["projects", "blog"]
 favicon = "/favicon.png"
 
-[sidebar]
+[params.sidebar]
 emoji = "🧑🏽‍🚀"
 subtitle = """🚀 Technical Director in the 3D animation industry. Bridging art and tech
             together with code. Currently into Neovim, Rez, USD, Python, and Linux. """
 
-[imageProcessing.cover]
+[params.imageProcessing.cover]
 enabled = false
 
-[imageProcessing.content]
+[params.imageProcessing.content]
 enabled = false
 
-[[widgets.homepage]]
+[[params.widgets.homepage]]
 type = "search"

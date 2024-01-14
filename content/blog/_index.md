@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+image: "avatar.png"
 menu:
     main:
         name: Blog

@@ -1,8 +1,10 @@
 ---
 title: "About me"
+description: "Who even is this guy?"
 date: "2023-01-13"
 license: false
 readingTime: false
+image: "about.jpg"
 menu:
     main:
         name: About
@@ -10,34 +12,20 @@ menu:
         params:
             icon: eye
 ---
-Hello there! 👋 I'm [Your Name], a [Your Profession/Passion] based in [Your Location]. 
+Hello there! 👋 I'm Jaime, a Technical Director based in Canada currently working in
+the 3D animation industry.
 
-## 🌟 About Me
+I am passionate about anything related to 3D animation (and computers). I have former
+training as a 3D character animator but my career has shifted towards software
+develepment and support. You'll see me do lots of things around here, Whether it's
+Character Animation, Pipeline development, or even building my own keyboard (check that
+out in the blog!), I'll be having a blast doing it.
 
-I am passionate about anything related to 3D animation and computer graphics, and I have a strange love for keyboards haha. Whether it's [Specific Interest 1], [Specific Interest 2], or [Specific Interest 3], you'll often find me [What You Enjoy Doing]. 
-
-## 👩‍💻 Professional Background
-
-With a background in [Your Field], I have [Number of Years] years of experience in [Your Industry]. I specialize in [Your Expertise] and have worked on projects ranging from [Example Project 1] to [Example Project 2]. 
-
-## 🚀 What Drives Me
-
-I believe in [Your Beliefs/Values] and am driven by [Your Motivation]. I am constantly seeking new challenges and opportunities to [What You Aim to Achieve]. 
-
-## 📚 Education
-
-I hold a degree in [Your Degree] from [Your University]. My academic journey has equipped me with the skills to [Your Skills].
-
-## 🌐 Connect with Me
-
-Feel free to connect with me on:
-
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [GitHub](Your GitHub Profile URL)
+Most of my time is spent programming in 🐍Python, building tools and workflows to suit
+all needs in the pipeline.
 
 ## 📧 Contact
 
-For inquiries or collaborations, you can reach me at [Your Email Address].
+For inquiries, you can reach me at jaimeflorian27@gmail.com.
 
 Thanks for stopping by! 😊
