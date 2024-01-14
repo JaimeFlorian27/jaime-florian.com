@@ -1,4 +1,4 @@
-baseURL = 'https://jaime-florian.com'
+baseURL = 'http://jaime-florian.com'
 languageCode = 'en-us'
 title = 'Jaime Florian'
 theme = 'hugo-theme-stack'
